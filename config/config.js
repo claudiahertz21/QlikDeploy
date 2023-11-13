@@ -11,7 +11,7 @@ module.exports = {
   qlikWebIntegrationId: "TjmIyaAVR4KfOPslWjcepMe8lj2kCtFV",
   tenantDomain: "nordiskfilm.eu.qlikcloud.com",
   appId: "ac42365c-d49b-402e-9fea-9c7534a92411",
-  objectId: "PzGYQD",
+  objectId: "3aa05c53-8911-42fe-be1e-bba98311fb78",
 
   // token config
   issuer: "DRF",
